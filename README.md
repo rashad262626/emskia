@@ -2,7 +2,7 @@
 ## Screenshots
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rashad262626/emskia/main/Screenshot_20260224_112424.png" width="250">
+<img src="https://raw.githubusercontent.com/rashad262626/emskia/main/Screenshot_20260224_112255" width="250">
 <img src="https://raw.githubusercontent.com/rashad262626/emskia/main/Screenshot_20260224_112444.png" width="250">
 <img src="https://raw.githubusercontent.com/rashad262626/emskia/main/Screenshot_20260224_112454.png" width="250">
 <img src="https://raw.githubusercontent.com/rashad262626/emskia/main/Screenshot_20260224_112502.png" width="250">
